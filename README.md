@@ -65,5 +65,9 @@ Python-based password security assessment tool.
 - Python for Cybersecurity
 
 ---
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheema-c-629754298)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/craheema06)
 
 *Continuously learning, building and exploring cybersecurity.*
